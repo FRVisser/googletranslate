@@ -1,13 +1,13 @@
 {
-  "name": "googlesearch",
-  "main": "./lib/googlesearch",
-  "version": "1.5.0",
-  "description": "Search Highlighted word in google",
+  "name": "googletranslate",
+  "main": "./lib/googletranslate",
+  "version": "0.0.1",
+  "description": "Translate Highlighted word in google",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "googlesearch:google-it"
+    "atom-workspace": "googletranslate:google-it"
   },
-  "repository": "https://github.com/jigarmistry/googlesearch",
+  "repository": "https://github.com/FRVisser/googletranslate",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

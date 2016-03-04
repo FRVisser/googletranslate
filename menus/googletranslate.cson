@@ -2,8 +2,8 @@
 'context-menu':
   'atom-text-editor': [
     {
-      'label': 'Toggle googlesearch'
-      'command': 'googlesearch:google-it'
+      'label': 'Toggle googletranslate'
+      'command': 'googletranslate:translate-it'
     }
   ]
 'menu': [
@@ -14,7 +14,7 @@
       'submenu': [
         {
           'label': 'Search'
-          'command': 'googlesearch:google-it'
+          'command': 'googletranslate:translate-it'
         }
       ]
     ]

@@ -1,5 +1,5 @@
-GooglesearchView = require '../lib/googlesearch-view'
+googletranslateView = require '../lib/googletranslate-view'
 
-describe "GooglesearchView", ->
+describe "googletranslateView", ->
   it "has one valid test", ->
     expect("life").toBe "easy"
